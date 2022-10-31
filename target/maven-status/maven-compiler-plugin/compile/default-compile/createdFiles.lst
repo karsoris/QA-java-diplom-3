@@ -1,0 +1,6 @@
+pageobjectmodel\SignUpPage.class
+pageobjectmodel\ForgotPasswordPage.class
+extenstions\DriverFactory.class
+pageobjectmodel\LoginPage.class
+pageobjectmodel\MainPage.class
+pageobjectmodel\AccountPage.class
