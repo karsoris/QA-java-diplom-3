@@ -1,0 +1,8 @@
+LogOutTest.class
+MainPageBase.class
+NegativeSignUpTest.class
+PositiveSignUpTest.class
+AccountTest.class
+ConstructorTest.class
+PositiveLoginTest.class
+ConstructorTabTest.class
